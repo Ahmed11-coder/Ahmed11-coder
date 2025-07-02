@@ -49,7 +49,7 @@ A motivated Front-End Developer with over one year of experience in building res
 
 ### 📫 How To Reach Me 
 <a href="https://github.com/Ahmed11-coder"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" height="20px"></a>
-<a href=""><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" height="20px"></a>
+<a href="https://www.linkedin.com/in/ahmed-hashem-04117223a"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" height="20px"></a>
 <a href="mailto:ahmedhashem2158@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" height="20px"></a>
 
 #
