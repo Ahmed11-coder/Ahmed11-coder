@@ -1,7 +1,7 @@
 <img alt="img" src="./leading.png" width="100%"/>
 
 ## Hay👋, I'm Ahmed Hashem
-A motivated Front-End Developer with over one year of experience in building responsive, pixel-perfect web interfaces using JavaScript (ES6+), React.js, Next.js, Tailwind CSS. Skilled in writing clear, maintainable and troubleshooting, collaborating on UI/UX-focused projects to enhance user experiences. Dedicated to utilizing modern technologies to deliver innovative solutions.
+A motivated Front-End Developer with over one year of experience in building responsive, pixel-perfect web interfaces using JavaScript (ES6+), React.js, Next.js, Tailwind CSS. Skilled in writing clear, maintainable and troubleshooting complex issues. Passionate about creating seamless user experiences and delivering innovative solutions.
 
 <img alt="views" align="right" src="https://komarev.com/ghpvc/?username=Ahmed11-coder&color=387a4a&abbreviated=true&style=flat">
 
